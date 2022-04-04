@@ -1,5 +1,5 @@
 import React from 'react';
-import { Download, Button, Features, SectionWrapper } from './components';
+import { Download, Features, SectionWrapper } from './components';
 import assets from './assets';
 import styles from './styles/Global';
 
